@@ -18,6 +18,7 @@ public class Aceptaelreto {
         // TODO code application logic here
         System.out.println("acepta el reto");
         System.out.println("acepta el reto");
+        System.out.println("acepta el reto");
     }
     
 }
